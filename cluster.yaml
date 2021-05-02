@@ -7,7 +7,7 @@
   
  nodeGroups:
     - name: ng-1
-      instanceType: t2.micro
+      instancetype: t2.micro
       desiredCapacity: 3
       ssh:
         allow:false
